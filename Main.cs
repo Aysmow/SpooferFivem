@@ -1,85 +1,33 @@
-using System.Diagnostics;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using Microsoft.Win32;
 
-namespace KeyAuth
-{
-    public partial class Main : Form
-    {
-        public Main()
-        {
-            InitializeComponent();
-        }
-
-        private void siticoneControlBox1_Click(object sender, EventArgs e)
-        {
-            Environment.Exit(0);
-        }
+ ‎AYSMOW S'P00FER
 
 
-        private void Main_Load(object sender, EventArgs e)
-        {
-            Login.KeyAuthApp.check();
-            version.Text = "";
-
-        }
 
 
-        public DateTime UnixTimeToDateTime(long unixtime)
-        {
-            System.DateTime dtDateTime = new DateTime(1970, 1, 1, 0, 0, 0, 0, System.DateTimeKind.Local);
-            dtDateTime = dtDateTime.AddSeconds(unixtime).ToLocalTime();
-            return dtDateTime;
-        }
+⭐ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ ⭐
 
-        private void subscriptionDaysLabel_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void expiry_Click(object sender, EventArgs e)
-        {
-
-        }
+You got banned in Fivem?
+Then welcome to our private §poofer.
+This §poofer wont change your hwid everytime.
+and a lot of other stuff
+The method works completely different then
+all others out there. So it cant mess up
 
 
-        private void siticoneControlBox2_Click(object sender, EventArgs e)
-        {
+⭐ ꜰᴇᴀᴛᴜʀᴇꜱ ⭐ 
 
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void key_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void AysmowButton2Button5_Click(object sender, EventArgs e)
-        {
-        }
-
-        private void AysmowButton2Button7_Click(object sender, EventArgs e)
-        {
-        }
-
-        private void AysmowButton_Click(object sender, EventArgs e)
-        {
-        }
+- WORKING FIVEM BAN 14DAYS/ 255DAYS / ALL SERVERS
+- Wont change HWIDs, works completely different
+- No permanent system changes
+- Can't mess up your windows
+- Very unique spoof method
+- Remove auto shadow-bans
+- Comes with a cleaner
+- Remove HWID bans
+- Remove auto bans
 
 
-        
+⭐ ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅꜱ ⭐ 
+Lifetime - 60$
+3 Months - $45
+1 Month- $10
