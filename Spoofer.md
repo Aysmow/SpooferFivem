@@ -3,6 +3,8 @@
 I get the cfx account + spoofer |
 Je Procure le compte cfx + spoofer 
 
+https://discord.gg/2AVw9THQtH
+
 ![image](https://user-images.githubusercontent.com/74377244/170155625-13b789bc-aec7-462c-afc9-02c8ade6441e.png)
 
 
